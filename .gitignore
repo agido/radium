@@ -31,7 +31,6 @@ $RECYCLE.BIN/
 _site
 coverage
 dist
-lib
 node_modules
 npm-debug.log*
 yarn-error.log*
